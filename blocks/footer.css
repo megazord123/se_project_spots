@@ -3,9 +3,15 @@
 
 .footer__title {
   margin-top: 105px;
-  font-size: 20px;
+  font-size: 16px;
   margin-left: 750px;
-  color: #212121;
-  opacity: 70%;
-  justify-content: center;
+  color: #212121b2;
+  display: flex;
+  font-weight: 400;
+}
+
+.footer__copyright {
+  max-width: 1280px;
+  margin: 0 auto;
+  align-items: center;
 }
