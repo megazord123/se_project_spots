@@ -23,8 +23,6 @@ git@github.com:megazord123/se_project_coffeeshop-main.git
 
 ## Perfect pitch spots stage 2
 
-- video link https://drive.google.com/file/d/1uuVpfXozWCh4Dph0y0YrrQodBY5GZ4yb/view?usp=sharing
-
 **Intro**
 
 This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
